@@ -1,0 +1,7 @@
+{
+  "search": {
+    "base_url": "https://duckduckgo.com/html/",
+    "timeout_seconds": 10,
+    "max_workers": 8
+  }
+}
